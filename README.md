@@ -2,7 +2,7 @@
 
 # extract_blocks.py
 Python scripts that extracts a few blocks of data from a RAW file data set and create a new RAW file.
-Usage:
+Usage:\\
 [1] path to files
 [2] repeating part in file names
 [3] starting time in s
