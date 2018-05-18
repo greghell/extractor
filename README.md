@@ -1,4 +1,4 @@
-# extractor
+## extractor
 
 # extract_blocks.py
 Python scripts that extracts a few blocks of data from a RAW file data set and create a new RAW file.  
@@ -21,3 +21,10 @@ Usage:
 [1] path to directory containing all raw files to be spliced  
 [2] divider (divides data blocks by this integer number for software support)  
 [3] output file name  
+
+# RAWchannel_extractor.py
+Python script extracting one unique coarse channel out of a RAW file dataset, and writes it in a new RAW file  
+Usage:  
+[1] input file name (any file from the dataset)  
+[2] frequency included in the coarse channel to extract  
+[3] output file name (don't forget '.raw')
