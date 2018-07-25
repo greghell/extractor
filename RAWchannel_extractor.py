@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 if len(sys.argv) != 4:
         print '\nmissing information\n'
         print 'usage is:\n'
-        print '''plot_coarse_channel.py fnameIN fFreq fnameOUT'''
+        print '''RAWchannel_extractor.py fnameIN fFreq fnameOUT'''
         sys.exit()
 
 fileinit = str(sys.argv[1])
