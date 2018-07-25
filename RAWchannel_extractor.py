@@ -1,4 +1,4 @@
-# plot_coarse_channel.py fnameIN fFreq fnameOUT
+# RAWchannel_extractor.py fnameIN fFreq fnameOUT
 
 import glob
 import os
