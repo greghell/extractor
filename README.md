@@ -28,3 +28,9 @@ Usage:
 [1] input file name (any file from the dataset)  
 [2] frequency included in the coarse channel to extract  
 [3] output file name (don't forget '.raw')
+
+# raw2sigmf.py
+Python scripts that converts 1 coarse channel of a raw file into a SigMF format.
+Usage:
+[1] name of 1 raw file of a .raw dataset
+[2] frequency of interest
